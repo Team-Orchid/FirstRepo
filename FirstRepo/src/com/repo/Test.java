@@ -8,5 +8,7 @@ public class Test {
 		
 		// Code by Team 1
 		System.out.println("This line is added by Team1 CM");
+		
+		System.out.println("This is new line");
 	}
 }
